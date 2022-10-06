@@ -1,0 +1,54 @@
+1 tasks to be loaded.
+Running experiment for 50 seconds.
+main thread [37719]
+deadline thread started [37721] 40000000, 50000000 
+[37721] miss cycle time = 64683641160 us
+[37721] miss cycle time = 64684790960 us
+[37721] miss cycle time = 64685290967 us
+[37721] miss cycle time = 64686691018 us
+[37721] miss cycle time = 64687041079 us
+[37721] miss cycle time = 64687290988 us
+[37721] miss cycle time = 64688541002 us
+[37721] miss cycle time = 64689491012 us
+[37721] miss cycle time = 64690141058 us
+[37721] miss cycle time = 64691591036 us
+[37721] miss cycle time = 64691741036 us
+[37721] miss cycle time = 64692391077 us
+[37721] miss cycle time = 64696441090 us
+[37721] miss cycle time = 64697241129 us
+[37721] miss cycle time = 64698091103 us
+[37721] miss cycle time = 64699391155 us
+[37721] miss cycle time = 64699491154 us
+[37721] miss cycle time = 64700941134 us
+[37721] miss cycle time = 64701241383 us
+[37721] miss cycle time = 64702791155 us
+[37721] miss cycle time = 64702941397 us
+[37721] miss cycle time = 64703941169 us
+[37721] miss cycle time = 64704691177 us
+[37721] miss cycle time = 64708591218 us
+[37721] miss cycle time = 64708841258 us
+[37721] miss cycle time = 64709391226 us
+[37721] miss cycle time = 64711291247 us
+[37721] miss cycle time = 64711791252 us
+[37721] miss cycle time = 64713791275 us
+[37721] miss cycle time = 64715091319 us
+[37721] miss cycle time = 64716791308 us
+[37721] miss cycle time = 64718741364 us
+[37721] miss cycle time = 64718841367 us
+[37721] miss cycle time = 64723191417 us
+[37721] miss cycle time = 64724141387 us
+[37721] miss cycle time = 64725841657 us
+[37721] miss cycle time = 64726541449 us
+[37721] miss cycle time = 64726641413 us
+[37721] miss cycle time = 64727691425 us
+[37721] miss cycle time = 64727842323 us
+[37721] miss cycle time = 64728191467 us
+[37721] miss cycle time = 64728691474 us
+[37721] miss cycle time = 64729391444 us
+[37721] miss cycle time = 64731491467 us
+[37721] miss cycle time = 64731741510 us
+[37721] miss cycle time = 64731891506 us
+[37721] miss cycle time = 64732491568 us
+[37721] miss cycle time = 64732741480 us
+deadline thread dies [37721]
+main dies [37719]

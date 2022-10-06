@@ -1,0 +1,34 @@
+1 tasks to be loaded.
+Running experiment for 50 seconds.
+main thread [37716]
+deadline thread started [37728] 60000000, 100000000 
+[37728] miss cycle time = 64683887062 us
+[37728] miss cycle time = 64685787040 us
+[37728] miss cycle time = 64686787043 us
+[37728] miss cycle time = 64689087066 us
+[37728] miss cycle time = 64689787040 us
+[37728] miss cycle time = 64690187081 us
+[37728] miss cycle time = 64692587070 us
+[37728] miss cycle time = 64694587127 us
+[37728] miss cycle time = 64695687106 us
+[37728] miss cycle time = 64697887170 us
+[37728] miss cycle time = 64698187233 us
+[37728] miss cycle time = 64699687177 us
+[37728] miss cycle time = 64707487258 us
+[37728] miss cycle time = 64708787337 us
+[37728] miss cycle time = 64709787259 us
+[37728] miss cycle time = 64711787279 us
+[37728] miss cycle time = 64712087322 us
+[37728] miss cycle time = 64714487342 us
+[37728] miss cycle time = 64714987358 us
+[37728] miss cycle time = 64717087335 us
+[37728] miss cycle time = 64717287340 us
+[37728] miss cycle time = 64719387364 us
+[37728] miss cycle time = 64720887377 us
+[37728] miss cycle time = 64726587439 us
+[37728] miss cycle time = 64727287480 us
+[37728] miss cycle time = 64728387557 us
+[37728] miss cycle time = 64731487526 us
+[37728] miss cycle time = 64732187500 us
+deadline thread dies [37728]
+main dies [37716]
