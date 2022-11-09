@@ -1,6 +1,5 @@
 # RT-Container-framework
 A framework help to manage Real-Time Container in a distributed IoT system.
-This framework provides following
 
 ## Before you start
 This framework includes the monitor and migration executor for container migration, thus yoou need to prepare multiple devices as migration target before you install it.
