@@ -1,0 +1,4 @@
+[submodule "criu"]
+	path = criu
+	url = https://github.com/devikrishnar/criu
+	branch = criu-dev
